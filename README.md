@@ -19,7 +19,3 @@ See our full review [here](http://www.backbay.com/site-review-dailywritingtips-c
 ## Tools
 
 
-
-
-SOURCES:
-https://mirasee.com/blog/blogging-tools/
