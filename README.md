@@ -18,4 +18,9 @@ See our full review [here](http://www.backbay.com/site-review-dailywritingtips-c
 
 ## Tools
 
+### Media
+#### EmbedResponsively.com
 
+EmbedResponsively.com is a free online tool that allows users to generate the code necessary to embed media in a responsive way. Given the URL of a media item to embed, the site returns the code needed to format the item in a way that makes it behave correcly on devices of variable widths.
+
+See our full review [here](http://www.backbay.com/site-review-embedresponsively-com/)
